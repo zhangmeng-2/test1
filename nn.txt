@@ -1,5 +1,6 @@
 沙比
 
+<<<<<<< HEAD
 你害怕点，我不正常
 你正常点，我害怕
 
@@ -9,3 +10,5 @@ ni hai pa dian , wo bu zhen chang
 emm emm emm
 kiki kiki kiki 
 lili lili lili 
+mimi mimi mimi
+
